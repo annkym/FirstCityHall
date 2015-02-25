@@ -1,0 +1,165 @@
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-29T16:34:00+00:00"
+    steps: 2665
+    active steps: 2427
+    exercise: 1200
+    jog: 0
+    total_cal: 134800
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-28T16:34:00+00:00"
+    steps: 6192
+    active steps: 5454
+    exercise: 2800
+    jog: 0
+    total_cal: 321700
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-27T16:34:00+00:00"
+    steps: 5469
+    active steps: 3781
+    exercise: 1900
+    jog: 0
+    total_cal: 271700
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-26T16:34:00+00:00"
+    steps: 10
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 7000
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-25T16:34:00+00:00"
+    steps: 16863
+    active steps: 11924
+    exercise: 6200
+    jog: 0
+    total_cal: 847200
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-24T16:34:00+00:00"
+    steps: 8205
+    active steps: 6558
+    exercise: 3400
+    jog: 0
+    total_cal: 450700
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-23T16:34:00+00:00"
+    steps: 7929
+    active steps: 5825
+    exercise: 3000
+    jog: 0
+    total_cal: 415500
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-22T16:34:00+00:00"
+    steps: 5751
+    active steps: 4726
+    exercise: 2400
+    jog: 0
+    total_cal: 304900
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-21T16:34:00+00:00"
+    steps: 7766
+    active steps: 6380
+    exercise: 3300
+    jog: 0
+    total_cal: 413100
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-20T16:34:00+00:00"
+    steps: 6298
+    active steps: 4428
+    exercise: 2300
+    jog: 0
+    total_cal: 340100
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-19T16:34:00+00:00"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-18T16:34:00+00:00"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-17T16:34:00+00:00"
+    steps: 2474
+    active steps: 2267
+    exercise: 1100
+    jog: 0
+    total_cal: 137000
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-16T16:34:00+00:00"
+    steps: 5843
+    active steps: 4826
+    exercise: 2500
+    jog: 0
+    total_cal: 313600
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010446
+    date: "2015-07-15T16:34:00+00:00"
+    steps: 2704
+    active steps: 2359
+    exercise: 1200
+    jog: 0
+    total_cal: 138600
+    active_cal: 0
+    burned_cal: 0
