@@ -1,11 +1,16 @@
 - model: UW-201NFC
   deviceid: 2050010446
   fields:
+    date: 2015-07-21
+      steps: 2391
+      active steps: 2221
+      calories: 119100
+      EX: 1100
     date: 2015-07-20
-      steps: 2141
-      active steps: 1717
-      calories: 123200
-      EX: 800
+      steps: 6298
+      active steps: 4428
+      calories: 340100
+      EX: 2300
     date: 2015-07-19
       steps: 0
       active steps: 0
@@ -70,9 +75,4 @@
       steps: 51
       active steps: 0
       calories: 44300
-      EX: 0
-    date: 2015-07-06
-      steps: 22
-      active steps: 0
-      calories: 21100
       EX: 0
